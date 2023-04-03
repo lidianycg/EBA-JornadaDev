@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Link para acessar o projeto pronto:
+https://jornadadev-6b5e0.web.app/
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
